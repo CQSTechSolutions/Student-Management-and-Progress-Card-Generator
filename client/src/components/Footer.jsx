@@ -75,7 +75,7 @@ function Footer() {
         </div>
       </div>
       <div className="text-center text-xs text-gray-400">
-        <p>Developed by <a href="https://www.cqstechsolutions.com" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:text-indigo-300 transition duration-300">CQSTechSolutions</a></p>
+        <p>Developed by <a href="https://www.cqstechsolutions.com" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:text-indigo-300 transition duration-300">CQS Tech Solutions</a></p>
       </div>
     </footer>
   );
